@@ -1,7 +1,7 @@
 # ScioSense AS6031 STM32L476RG Library
 STM32L476RG library for the AS6031 Ultrasonic Flow Converter.
 
-<img src="_images/AS6031_3D.png" width="1000">
+<img src="_images/AS6031 3D.png" width="1000">
 
 AS6031 is an ultrasonic flow converter for the next generation of ultrasonic water and heat meters.
 The AS6031 converter produced by [ScioSense](http://www.sciosense.com).
