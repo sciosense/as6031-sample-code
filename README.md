@@ -44,7 +44,7 @@ For the installation of the STM32L476RG in the STM32CubeIDE, see [STM32L476RG In
 ### Manual installation
 - Download the code from this repository via "Download ZIP".
 - In STM32CubeIDE, select Import > General > Existing Projects into Workspace... and browse to the just unpacked ZIP file.
-- if needed, include Source Library, select Oüen Properties > C/C++ General > Code Analysis > Paths and Symbols
+- if needed, include Source Library, select Open Properties > C/C++ General > Code Analysis > Paths and Symbols
   Includes > Add include directories > ../../_Src_Lib
   Move this directory up to the second place.
 - When the IDE is ready this README.md should be located in your workspace.
