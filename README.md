@@ -11,11 +11,10 @@ compatible with mechanical meters, high flexibility in choice for external μP h
 and further data management, precision down to low flow rates and leakage detection.
 
 ## Links
-* [Datasheet](https://www.sciosense.com/wp-content/uploads/documents/AS6031-Datasheet-1.pdf)
-* [Application notes](https://www.sciosense.com/products/ultrasonic-flow-converters/as6031/#documents)
+* Latest datasheet and application notes are on [ScioSense site](https://www.sciosense.com/as6031f1-ultrasonic-flow-converter/#downloads)
 * Buy the AS6031 on [Mouser](https://www2.mouser.com/ProductDetail/ScioSense/AS6031-BQFM?qs=DPoM0jnrROWSi1b8OH79RQ%3D%3D) or [Digikey](https://www.digikey.com/en/products/detail/sciosense/as6031-bqfm/17282629)
 * Buy the AS6031 evaluation kit on [Mouser](https://www2.mouser.com/ProductDetail/ScioSense/AS6031-QF_DK?qs=DPoM0jnrROUiGEZop9BCng%3D%3D)
-* [Further information about the AS6031](https://www.sciosense.com/products/ultrasonic-flow-converters/as6031/)  
+* [Further information about the AS6031](https://www.sciosense.com/as6031f1-ultrasonic-flow-converter/) 
 
  
 ## Prerequisites
